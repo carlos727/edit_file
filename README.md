@@ -1,4 +1,3 @@
 # edit_file
 
-TODO: Enter the cookbook description here.
-
+Cookbook to edit files of remote nodes.
